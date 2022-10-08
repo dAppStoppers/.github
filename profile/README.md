@@ -28,6 +28,15 @@ A censorship-resistant Dapp distribution platform
 
 ## TODOs
 
+- Dapp Metadata
+
+{
+name: string
+description: string
+image: string
+ceramic_uri: string
+}
+
 - Dapp Datastructure
 
 ```tx
@@ -44,6 +53,9 @@ A censorship-resistant Dapp distribution platform
 }
 
 ```
+
+- [ ] Create Schema for Documentation
+- [ ] Create Dummy Data
 
 - [ ] Upload to IPFS images
 

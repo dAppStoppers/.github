@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://weathered-limit-7676.on.fleek.co/">
-<img src="https://raw.githubusercontent.com/Unblogg/.github/main/profile/assets/DappStop-Banner.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-Banner.png"/>
 </a>
 _A Decentralized DappStore_
 

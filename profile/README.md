@@ -4,7 +4,7 @@
 <a href="https://weathered-limit-7676.on.fleek.co/">
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-Banner.png"/>
 </a>
-_A Decentralized DappStore_
+**A Censorship Resistant & Creator First Dappstore**
 
 🌐 Website: <https://dappstop.xyz/>
 

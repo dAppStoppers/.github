@@ -24,7 +24,17 @@ The current appstores are also lacking a social aspect, if implemented, could bo
 
 ## Solution
 
-A censorship-resistant Dapp distribution platform
+A censorship-resistant Dapp distribution platform.
+
+## Deck
+
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_1.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_2.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_3.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_4.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_5.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_6.png"/>
+<img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_7.png"/>
 
 ## TODOs
 
@@ -54,45 +64,45 @@ ceramic_uri: string
 
 ```
 
-- [ ] Create Schema for Documentation
-- [ ] Create Dummy Data
+- [x] Create Schema for Documentation
+- [x] Create Dummy Data
 
-- [ ] Upload to IPFS images
+- [x] Upload to IPFS images
 
-- [ ] Publisher page (upload)
+- [x] Publisher page (upload)
 
-  - [ ] Login
-  - [ ] upload game files to IPFS
-  - [ ] upload new version game files to IPFS
-    - [ ] PUSH notifications using EPNS/PUSH
-  - [ ] setup Game Profile
-    - [ ] App Logo
-    - [ ] Preview Image
-    - [ ] Chain
-    - [ ] APK File
-    - [ ] Token Gated?
-    - [ ] Price
-    - [ ] Name
-    - [ ] Description
+  - [x] Login
+  - [x] upload game files to IPFS
+  - [x] upload new version game files to IPFS
+    - [x] PUSH notifications using EPNS/PUSH
+  - [x] setup Game Profile
+    - [x] App Logo
+    - [x] Preview Image
+    - [x] Chain
+    - [x] APK File
+    - [x] Token Gated?
+    - [x] Price
+    - [x] Name
+    - [x] Description
 
-- [ ] Consumer pages (downloads)
+- [x] Consumer pages (downloads)
 
-  - [ ] Login
-  - [ ] Explore (hardcoded)
-  - [ ] View app
-    - [ ] App Logo
-    - [ ] Proof of Purchase Detection
-  - [ ] Download
+  - [x] Login
+  - [x] Explore (hardcoded)
+  - [x] View app
+    - [x] App Logo
+    - [x] Proof of Purchase Detection
+  - [x] Download
 
-- [ ] Proof of Purchase NFT Image
+- [x] Proof of Purchase NFT Image
 
-  - [ ] DappStop Logo + Applogo
+  - [x] DappStop Logo + Applogo
 
-- [ ] Demo
-  - [ ] Demo Video
-  - [ ] Submission on ETH Global Website
-  - [ ] Pitch Deck
-  - [ ] Sample APK to upload to IPFS
+- [x] Demo
+  - [x] Demo Video
+  - [x] Submission on ETH Global Website
+  - [x] Pitch Deck
+  - [x] Sample APK to upload to IPFS
 
 ## 📑 Deck
 

@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://weathered-limit-7676.on.fleek.co/">
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-Banner.png"/>
-</a>
-**A Censorship Resistant & Creator First Dappstore**
+<a>
+<i>A Censorship Resistant & Creator First Dappstore</i>
 
 🌐 Website: <https://dappstop.xyz/>
 

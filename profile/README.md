@@ -26,7 +26,7 @@ The current appstores are also lacking a social aspect, if implemented, could bo
 
 A censorship-resistant Dapp distribution platform.
 
-## Deck
+## 📑 Deck
 
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_1.png"/>
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_2.png"/>
@@ -108,7 +108,5 @@ A censorship-resistant Dapp distribution platform.
   - [x] Submission on ETH Global Website
   - [x] Pitch Deck
   - [x] Sample APK to upload to IPFS
-
-## 📑 Deck
 
 ## Demo

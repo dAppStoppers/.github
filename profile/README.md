@@ -36,33 +36,38 @@ A censorship-resistant Dapp distribution platform.
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_6.png"/>
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_7.png"/>
 
-## TODOs
+## Data Structures
 
 - Dapp Metadata
 
+```txt
 {
-name: string
-description: string
-image: string
-ceramic_uri: string
+  name: string
+  description: string
+  image: string
+  ceramic_uri: string
 }
+```
 
 - Dapp Datastructure
 
-```tx
+```txt
 {
   title: string
+  description: string
+  version: string
   app_icon_url: string
   preview_images: string[4]
   chain: enum(Polygon, Optimism, Klaytn)
   category: enum(Game, dApp)
-  description: string
   apk_url: string
   token_gated: bool
   price: number
 }
 
 ```
+
+## TODOs
 
 - [x] Create Schema for Documentation
 - [x] Create Dummy Data

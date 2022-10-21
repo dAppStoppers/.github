@@ -37,7 +37,6 @@ A censorship-resistant Dapp distribution platform.
 <img src="https://raw.githubusercontent.com/dAppStoppers/.github/main/profile/assets/DappStop-deck_Page_7.png"/>
 
 
-Polygon lets go baby
 We've built a decentralized app store for mobile dapps. The minimal delightful point is that the creators/publishers can deliver their dapps without any permission. It was definitely new and delightful value for them.
 https://twitter.com/0xmoriki/status/1579042246090838017
 https://twitter.com/yukiw_eth/status/1579047768881971200
